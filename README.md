@@ -1,6 +1,5 @@
 # PL-SQL_Bonus_Management
 
-# PLSQL-Collections-Records-GOTO-Tlhohonolofatso-Semelane
 
 ### Student: SADE GEORGE SADE
 ### Student ID: 26915
