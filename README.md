@@ -3,10 +3,10 @@
 
 ### Student: SADE GEORGE SADE
 ### Student ID: 26915
-### Course: Database Development with PL/SQL (INSY 8311)
+### Course: PL/SQL (INSY 8311)
 ### Instructor: Eric Maniraguha
 
-# 1️⃣ Problem Definition
+# Problem Definition
 ## Problem Title: Employee Bonus Management System
 
 ## A company needs a system to calculate bonuses for employees. The system should:
@@ -20,15 +20,15 @@
 - The system will calculate bonuses based on employee performance ratings and salaries.
 
 # Objectives
-### Create tables for employees and bonus records
+- Create tables for employees and bonus records
 
-### Use PL/SQL with Collections, Records, and GOTO
+- Use PL/SQL with Collections, Records, and GOTO
 
-### Calculate bonuses for good performers
+- Calculate bonuses for good performers
 
-### Handle errors when data is bad
+- Handle errors when data is bad
 
-### Show results clearly
+- Show results clearly
 
 # PROCEDURES
 
@@ -46,13 +46,13 @@
 
 
 # Outcome
-## The procedures worked successfully:
+- The procedures worked successfully:
 
-### Calculated employee bonuses and totals using a VARRAY collection
+- Calculated employee bonuses and totals using a VARRAY collection
 
-### Displayed employee information neatly using a Record structure
+- Displayed employee information neatly using a Record structure
 
-### Skipped invalid employees with zero salary using GOTO for clean processing
+- Skipped invalid employees with zero salary using GOTO for clean processing
 
 
 
